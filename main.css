@@ -1,0 +1,10 @@
+.box {
+	height: 30em;
+	width: 50%;
+	background-color: #e5e5e5;
+	padding: 20PX;
+	border-radius: 10px;
+}
+#friendsList {
+	list-style: none;
+}
